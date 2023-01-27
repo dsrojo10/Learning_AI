@@ -1,5 +1,6 @@
 # Learning_AI
-Basic examples of AI develomept with Python.
+Basic examples of AI develomept.
 
-* Ejemplo #1: AI entrenada para convertir de grados celsius a fahrenheit.
-* Ejemplo #2: 
+* Ejemplo #1: AI trained to convert from Celsius to Fahrenheit. (Python in Colab)
+* Ejemplo #2: AI trained to recognize handwritten numbers. (Python in Colab) 
+* Ejemplo #3: 
